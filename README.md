@@ -14,10 +14,6 @@
 - Docker compose
 - API com autenticação
 
-### Desenvolvimento utilizando::  
-- TDD ( Desenvolvimento Orientado a Testes)  
-- Unite Tests (com PHPUnit)  
-  
 # Descrição  
   
 Um projeto de API simples construído para processo seletivo de desenvolvedor da BRLIGHT  .
