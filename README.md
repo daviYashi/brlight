@@ -30,7 +30,7 @@ Composer
 qualquer banco de dados SQL
 
     # Clonar este Repositório
-    $ git clone <repository-url>
+    $ git clone <git@github.com:daviYashi/brlight.git>
     $ cd brlight-app
     $ composer install
 
