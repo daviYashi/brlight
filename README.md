@@ -16,8 +16,7 @@
 
 # Descrição  
   
-Um projeto de API simples construído para processo seletivo de desenvolvedor da BRLIGHT  .
-  
+Projeto de API RESTful desenvolvida com Laravel, focada em autenticação de usuários e gerenciamento de clientes, incluindo funcionalidades de CRUD e filtros personalizados.
 
 # Como Configurar
 #### Você vai precisar de:
